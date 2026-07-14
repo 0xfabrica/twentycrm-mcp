@@ -1,0 +1,9 @@
+node_modules/
+dist/
+# npm/package-lock.json is the supported package-manager path.
+pnpm-lock.yaml
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
