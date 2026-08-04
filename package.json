@@ -44,8 +44,8 @@
     "url": "https://github.com/0xfabrica/twentycrm-mcp/issues"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.29.0",
-    "axios": "^1.18.1",
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "axios": "^1.19.0",
     "zod": "^3.25.76"
   },
   "devDependencies": {
